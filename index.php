@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>Tabla con datos que al hacer click en campo manda un form post dinamico</h2>
+        <h2>Tabla con datos que al hacer click en campo manda un form POST dinamico</h2>
         <table>
             <thead>
                 <th>Nombre</th>

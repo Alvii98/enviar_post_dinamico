@@ -13,8 +13,9 @@ if(!isset($_POST['nombre']) || !isset($_POST['edad']) || !isset($_POST['pais']))
   <link rel="stylesheet" href="css/estilo.css">
 </head>
 <body>
-  <div class="container">
+  <div class="container ">
     <div class="input-group">
+      <h2>Datos del POST dinamico</h2>
       <h2 for="name"><?php print $_POST['nombre'];?></h2>
     </div>
     <div class="input-group">
